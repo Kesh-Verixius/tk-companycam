@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# MacOS specific files
+.DS_Store
+
+# Lock files
+package-lock.json
